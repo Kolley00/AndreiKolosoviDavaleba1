@@ -1,4 +1,4 @@
-package ge.edu.btu.calculator.service;
+package ge.edu.btu.calculator;
 
 import ge.edu.btu.calculator.service.impl.CalculatorServiceImpl;
 
